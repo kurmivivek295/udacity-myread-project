@@ -10,3 +10,23 @@ In this application, the main page displays a list of "shelves" (i.e. categories
 * Currently Reading
 * Want to Read
 * Read
+
+## How to use the app
+
+1. Clone project:
+
+    ```
+    $ git clone git@github.com:kurmivivek295/udacity-myread-project.git
+    ```
+2. Go into the project directory and do `npm install`
+
+    ```
+    $ npm install
+    ```
+	
+3. Go inside application directory and Serve the application:
+
+    ```
+    $ npm start
+    ```
+    It will open the browser window with app loaded.
